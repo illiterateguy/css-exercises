@@ -1,0 +1,19 @@
+.odd-no{
+    background-color: rgb(247, 150, 150);
+    font-family: Verdana,sans-serif;
+}
+
+.medium-font{
+    font-size: 24px;
+}
+
+#mid-backgreen{
+    font-size: 24px;
+    background-color: #00FF00;
+    font-weight: bold;
+}
+
+#big-red{
+    font-size: 36px;
+    color: hsl(0, 70%, 20%)
+}
