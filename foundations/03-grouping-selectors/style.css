@@ -1,0 +1,13 @@
+.white-backblack,.backyellow{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
+
+.white-backblack{
+    color:hsl(0,0%,100%);
+    background-color: hsl(0,0%,0%);   
+}
+
+.backyellow{
+    background-color: #ffef00;
+}
